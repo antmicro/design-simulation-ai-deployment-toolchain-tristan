@@ -1,0 +1,30 @@
+[submodule "simulation/renode-dpi-examples"]
+	path = simulation/renode-dpi-examples
+	url = git@github.com:antmicro/renode-dpi-examples.git
+[submodule "simulation/renode-verilator-integration"]
+	path = simulation/renode-verilator-integration
+	url = git@github.com:antmicro/renode-verilator-integration.git
+[submodule "simulation/renode-systemc-examples"]
+	path = simulation/renode-systemc-examples
+	url = git@github.com:antmicro/renode-systemc-examples.git
+[submodule "simulation/renode"]
+	path = simulation/renode
+	url = git@github.com:antmicro/renode.git
+[submodule "simulation/verilator"]
+	path = simulation/verilator
+	url = git@github.com:antmicro/verilator.git
+[submodule "simulation/sv-bugpoint"]
+	path = simulation/sv-bugpoint
+	url = git@github.com:antmicro/sv-bugpoint.git
+[submodule "ai-toolchain/kenning"]
+	path = ai-toolchain/kenning
+	url = git@github.com:antmicro/kenning.git
+[submodule "ai-toolchain/kenning-zephyr-runtime"]
+	path = ai-toolchain/kenning-zephyr-runtime
+	url = git@github.com:antmicro/kenning-zephyr-runtime.git
+[submodule "ai-toolchain/kenning-bare-metal-iree-runtime"]
+	path = ai-toolchain/kenning-bare-metal-iree-runtime
+	url = git@github.com:antmicro/kenning-bare-metal-iree-runtime.git
+[submodule "simulation/pyrenode3"]
+	path = simulation/pyrenode3
+	url = git@github.com:antmicro/pyrenode3.git
