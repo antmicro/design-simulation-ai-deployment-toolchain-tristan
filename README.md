@@ -44,28 +44,45 @@ Kenning consists of:
 
 The following list of blog notes describe the work done with the above tools within the TRISTAN project:
 
-1. [Python-driven automation and scripting in Renode with pyrenode3](https://antmicro.com/blog/2023/11/python-driven-automation-and-scripting-in-renode-with-pyrenode3)
-2. [Expanding RISC-V support in Renode with Bit-Manipulation extensions](https://antmicro.com/blog/2023/12/expanding-risc-v-support-in-renode-with-bit-manipulation-extensions)
-3. [Introducing code coverage reporting in Renode](https://antmicro.com/blog/2024/02/introducing-code-coverage-reporting-in-renode)
-4. [Introducing constrained randomization in Verilator](https://antmicro.com/blog/2024/03/introducing-constrained-randomization-in-verilator)
-5. [Defining RISC-V CPUs in Renode simulation with custom instructions and extensions](https://antmicro.com/blog/2024/06/defining-risc-v-cpus-in-renode)
-6. [Constrained randomization in Verilator: SystemVerilog constraint to SMT-LIB2 conversion](https://antmicro.com/blog/2024/08/constrained-randomization-in-verilator-implementation-details)
-7. [Enabling open source UVM verification of AXI-based systems in Verilator](https://antmicro.com/blog/2024/09/open-source-uvm-verification-axi-in-verilator)
-8. [sv-bugpoint: pinpoint minimal bug-inducing SystemVerilog code subsets to improve debugging in Verilator and other SV tools](https://antmicro.com/blog/2024/09/sv-bugpoint-for-improved-debugging-in-sv-tools)
-9. [Trace-based evaluation of CPU cache usage in Renode](https://antmicro.com/blog/2024/10/trace-based-evaluation-of-cpu-cache-usage-in-renode)
-10. [Enabling complex HDL co-simulation scenarios using Renode's Direct Programming Interface support](https://antmicro.com/blog/2025/04/complex-dpi-based-hdl-co-simulation-in-renode)
-11. [Enhancing RTL coverage reporting in Verilator with new features and computation optimizations](https://antmicro.com/blog/2025/08/enhancing-coverage-reporting-in-verilator)
-12. [Support for upstream UVM 2017 in Verilator](https://antmicro.com/blog/2025/10/support-for-upstream-uvm-2017-in-verilator)
-13. [Optimizing sv-bugpoint with speculative minimization algorithms](https://antmicro.com/blog/2026/03/optimizing-sv-bugpoint-with-speculative-minimization-algorithms)
+1. [Python-driven automation and scripting in Renode with pyrenode3](https://tristan.antmicro.com/?post=python-driven-automation-and-scripting-in-renode-with-pyrenode3)
+2. [Expanding RISC-V support in Renode with Bit-Manipulation extensions](https://tristan.antmicro.com/?post=expanding-risc-v-support-in-renode-with-bit-manipulation-extensions)
+3. [Introducing code coverage reporting in Renode](https://tristan.antmicro.com/?post=introducing-code-coverage-reporting-in-renode)
+4. [Introducing constrained randomization in Verilator](https://tristan.antmicro.com/?post=introducing-constrained-randomization-in-verilator)
+5. [Defining RISC-V CPUs in Renode simulation with custom instructions and extensions](https://tristan.antmicro.com/?post=defining-risc-v-cpus-in-renode)
+6. [Constrained randomization in Verilator: SystemVerilog constraint to SMT-LIB2 conversion](https://tristan.antmicro.com/?post=constrained-randomization-in-verilator-implementation-details)
+7. [Enabling open source UVM verification of AXI-based systems in Verilator](https://tristan.antmicro.com/?post=open-source-uvm-verification-axi-in-verilator)
+8. [Trace-based evaluation of CPU cache usage in Renode](https://tristan.antmicro.com/?post=trace-based-evaluation-of-cpu-cache-usage-in-renode)
+9. [Enabling complex HDL co-simulation scenarios using Renode's Direct Programming Interface support](https://tristan.antmicro.com/?post=complex-dpi-based-hdl-co-simulation-in-renode)
+10. [Enhancing RTL coverage reporting in Verilator with new features and computation optimizations](https://tristan.antmicro.com/?post=enhancing-coverage-reporting-in-verilator)
+11. [Improving data sources and tests in the Renode Zephyr Dashboard and Renodepedia](https://tristan.antmicro.com/?post=improvements-to-zephyr-dashboard-and-renodepedia)
+12. [Optimizing sv-bugpoint with speculative minimization algorithms](https://tristan.antmicro.com/?post=optimizing-sv-bugpoint-with-speculative-minimization-algorithms)
+13. [Recent developments in Zephyr port for RISC-V](https://tristan.antmicro.com/?post=recent-developments-in-zephyr-for-riscv)
+14. [Support for upstream UVM 2017 in Verilator](https://tristan.antmicro.com/?post=support-for-upstream-uvm-2017-in-verilator)
+15. [sv-bugpoint: pinpoint minimal bug-inducing SystemVerilog code subsets to improve debugging in Verilator and other SV tools](https://tristan.antmicro.com/?post=sv-bugpoint-for-improved-debugging-in-sv-tools)
 
 <div>
   <picture style="vertical-align:middle">
     <source srcset="https://antmicro.com/blog/images/logos-eu.svg" media="(prefers-color-scheme: light)">
     <source srcset="https://antmicro.com/blog/images/logo-eu--dark.svg" media="(prefers-color-scheme: dark)">
-    <img src="https://antmicro.com/blog/images/logos-eu.svg" alt="EU and ChipsJU logos">
+    <img src="https://antmicro.com/blog/images/logos-eu.svg" alt="ChipsJU logo">
   </picture>
 </div>
 
 <sub>
 TRISTAN has received funding from the Chips Joint Undertaking (Chips JU) under grant agreement nr. 101095947. The Chips JU receives support from the European Union's Horizon Europe's research and innovation programmes and participating states are Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Germany, Denmark, Estonia, Greece, Spain, Finland, France, Hungary, Ireland, Israel, Iceland, Italy, Lithuania, Luxembourg, Latvia, Malta, Netherlands, Norway, Poland, Portugal, Romania, Sweden, Slovenia, Slovakia, and Turkey.
+</sub>
+</br></br>
+
+---
+
+<div>
+  <picture style="vertical-align:middle">
+    <source srcset="https://antmicro.com/blog/images/footer-fe-en.svg" media="(prefers-color-scheme: light)">
+    <source srcset="https://antmicro.com/blog/images/footer-fe-en-dark.svg" media="(prefers-color-scheme: dark)">
+    <img src="https://antmicro.com/blog/images/footer-fe-en.svg" alt="EU and NCBR logos">
+  </picture>
+</div>
+
+<sub>
+Project co-funded by the European Union under the CHIPS Joint Undertaking (CHIPS-JU) programme. The project is implemented as part of the National Centre for Research and Development competition: KDT Joint Undertaking Call 2021, under agreement no. KDT/2021/110/TRISTAN/2022. The project's duration is 3.5 years, with planned total cost of the implementation by the Polish applicant at 10,197,632.75 PLN and funding requested by the Polish applicant at 3,059,293.13 PLN.
 </sub>
